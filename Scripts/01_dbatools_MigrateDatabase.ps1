@@ -13,7 +13,7 @@
 # migrating application databases with dbatools
 # https://dbatools.io/migrating-application-dbs/
 
-# Copy commands available in dbatools
+# Copy- commands available in dbatools
 Get-Command -Module dbatools -Verb Copy
 
 ## Get databases
